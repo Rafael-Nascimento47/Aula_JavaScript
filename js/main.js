@@ -53,6 +53,7 @@ alert(setReplace("Vai Japão", "Japão", "Brasil"));
 
 ----------------------------------------------------------------
 
+                Variável se e se nao
 var validar
 function validaIdade(idade) {
     if (idade >= 18){
